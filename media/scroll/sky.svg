@@ -1,0 +1,26 @@
+<svg class="sky" width="1726" height="764" viewBox="0 0 1726 764" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_142_319)">
+<path d="M1767 -24H-32V764H1767V-24Z" fill="url(#paint0_linear_142_319)"/>
+<path d="M-14.6999 47C43.0325 127.894 94.9655 239.132 197.357 305.592C299.749 372.053 312.789 331.573 400.797 390.882C488.804 450.192 471.504 544.01 503.254 587.344C535.003 630.678 648.961 663.908 703.81 705.799C758.659 747.689 789 838.687 789 838.687V1350H-32L-14.6999 47Z" fill="url(#paint1_linear_142_319)"/>
+<path d="M773 -186.896C942.493 -177.617 1102.58 27.6304 1206.16 85.9976C1309.75 144.365 1356.84 91.642 1482.96 129.271C1609.09 166.899 1577.05 249.811 1671.14 289.364C1765.24 328.917 1997 262.981 1997 262.981L1940.59 -204L773 -186.896Z" fill="url(#paint2_linear_142_319)"/>
+<path d="M1394 288C1410.02 288 1423 275.24 1423 259.5C1423 243.76 1410.02 231 1394 231C1377.98 231 1365 243.76 1365 259.5C1365 275.24 1377.98 288 1394 288Z" fill="#FAB174"/>
+<path d="M1464 235C1489.41 235 1510 214.405 1510 189C1510 163.595 1489.41 143 1464 143C1438.59 143 1418 163.595 1418 189C1418 214.405 1438.59 235 1464 235Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_142_319" x1="867.511" y1="-0.990634" x2="867.511" y2="887.409" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE9C9"/>
+<stop offset="1" stop-color="#F8A16B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_142_319" x1="378.484" y1="56.2835" x2="378.484" y2="993.357" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE9C9"/>
+<stop offset="1" stop-color="#F8A16B"/>
+</linearGradient>
+<linearGradient id="paint2_linear_142_319" x1="1385.11" y1="-340.661" x2="1385.11" y2="1129.17" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE9C9"/>
+<stop offset="1" stop-color="#F8A16B"/>
+</linearGradient>
+<clipPath id="clip0_142_319">
+<rect width="1726" height="764" fill="white"/>
+</clipPath>
+</defs>
+</svg>

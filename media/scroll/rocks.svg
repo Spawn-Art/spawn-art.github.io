@@ -1,0 +1,10 @@
+<svg class="rocks" width="1728" height="225" viewBox="0 0 1728 225" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<g clip-path="url(#clip0_142_72)">
+<path d="M229.5 0H-17V326L1737 289L1752 16.5H1673C1658 16.5 1630.5 18 1620.5 38.5C1610.5 59 1609 110 1568 110C1527 110 1515.5 120 1494 133C1472.5 146 1448 191.5 1404.5 191.5H640C626 191.5 568.5 133 543 133H413.5C391.5 133 376.5 112.5 364 96C351.5 79.5 312.5 0 229.5 0Z" fill="#1D0D1B"/>
+</g>
+<defs>
+<clipPath id="clip0_142_72">
+<rect width="1728" height="225" fill="white"/>
+</clipPath>
+</defs>
+</svg>
